@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CacheProvider</id>
+    <version>1.0.2</version>
+    <title>Redise Cache manager</title>
+    <authors>Saravanan Natarajan</authors>
+    <owners>Saravanan Natarajan</owners>
+    <licenseUrl>http://github.com</licenseUrl>
+    <projectUrl>http://github.com</projectUrl>
+    <iconUrl>http://github.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is .net 4.7.2 wrapper dll for redis cache</description>
+    <releaseNotes> </releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>C# Redis</tags>
+	<dependencies> 
+    <dependency id="Newtonsoft.Json" version="12.0.0.0"/>
+	  <dependency id="StackExchange.Redis" version="2.0.0.0"/>	
+</dependencies>
+ 
+  </metadata>
+</package>

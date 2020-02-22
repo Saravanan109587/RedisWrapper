@@ -1,0 +1,8 @@
+D:\Code\LatestSubModule\Helpers\CacheWrapper\CacheManagerCore\bin\Debug\netstandard2.0\CacheManagerCore.deps.json
+D:\Code\LatestSubModule\Helpers\CacheWrapper\CacheManagerCore\bin\Debug\netstandard2.0\CacheManagerCore.dll
+D:\Code\LatestSubModule\Helpers\CacheWrapper\CacheManagerCore\obj\Debug\netstandard2.0\CacheManagerCore.AssemblyInfoInputs.cache
+D:\Code\LatestSubModule\Helpers\CacheWrapper\CacheManagerCore\obj\Debug\netstandard2.0\CacheManagerCore.AssemblyInfo.cs
+D:\Code\LatestSubModule\Helpers\CacheWrapper\CacheManagerCore\bin\Debug\netstandard2.0\CacheManagerCore.pdb
+D:\Code\LatestSubModule\Helpers\CacheWrapper\CacheManagerCore\obj\Debug\netstandard2.0\CacheManagerCore.dll
+D:\Code\LatestSubModule\Helpers\CacheWrapper\CacheManagerCore\obj\Debug\netstandard2.0\CacheManagerCore.pdb
+D:\Code\LatestSubModule\Helpers\CacheWrapper\CacheManagerCore\obj\Debug\netstandard2.0\CacheManagerCore.csprojAssemblyReference.cache
